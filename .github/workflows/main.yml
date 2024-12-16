@@ -3,7 +3,7 @@
   on:
     push:
       branches:
-        - main
+        - 24_ex9
 
   jobs:
     build:
